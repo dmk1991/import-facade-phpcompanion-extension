@@ -2,7 +2,7 @@ import sublime
 import sublime_plugin
 import re
 
-from .utils import find_symbol
+from .lib.utils import find_symbol
 
 class ImportFacadeCommand(sublime_plugin.TextCommand):
     def run(self, edit):

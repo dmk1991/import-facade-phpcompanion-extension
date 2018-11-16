@@ -1,4 +1,4 @@
-# Import Facade - A SublimePHPCompanion stand-alone extension
+# Import Facade - A SublimePHPCompanion extension
 A simple extension of the find_use command found in SublimePHPCompanion package.
 
 ## Purpose
